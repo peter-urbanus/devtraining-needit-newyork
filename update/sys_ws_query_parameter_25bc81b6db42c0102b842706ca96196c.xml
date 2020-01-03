@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ws_query_parameter">
+    <sys_ws_query_parameter action="INSERT_OR_UPDATE">
+        <example_value>pap</example_value>
+        <name>pap</name>
+        <required>false</required>
+        <short_description>pappa</short_description>
+        <sys_class_name>sys_ws_query_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-03 15:43:14</sys_created_on>
+        <sys_id>25bc81b6db42c0102b842706ca96196c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>pap</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ws_query_parameter_25bc81b6db42c0102b842706ca96196c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-03 15:43:14</sys_updated_on>
+        <web_service_definition display_value="Demo Service">3621039edbca40102b842706ca9619ae</web_service_definition>
+    </sys_ws_query_parameter>
+</record_update>
